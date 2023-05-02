@@ -1,0 +1,3 @@
+/home/jiap01/CLionProjects/frameTitles/cmake-build-debug/CMakeFiles/frameTitles.dir
+/home/jiap01/CLionProjects/frameTitles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jiap01/CLionProjects/frameTitles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
