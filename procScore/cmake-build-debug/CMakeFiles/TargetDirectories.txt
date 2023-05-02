@@ -1,0 +1,3 @@
+/home/jiap01/CLionProjects/procScore/cmake-build-debug/CMakeFiles/procScore.dir
+/home/jiap01/CLionProjects/procScore/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jiap01/CLionProjects/procScore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
